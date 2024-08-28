@@ -2,14 +2,15 @@ name: Snake Game
 
 on:
   schedule:
-    - cron: "0 */5 * * *"  # Atualiza a cada 5 horas
+    - cron: "0 */5 * * *" # Atualiza a cada 5 horas
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3  # Atualizado para v3
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -17,11 +18,13 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and push changes
+      - run: git status
+
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.MY_GITHUB_TOKEN }}
-          branch: output
+          branch: master
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
