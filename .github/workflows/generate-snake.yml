@@ -1,23 +1,15 @@
-# Nome da Actions:  
 name: Snake Game
 
-# Controlador do tempo que será feito a atualização dos arquivos.
 on:
   schedule:
-    # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
-
-  # Permite executar na lista de Actions (utilizado para testes de build).
+    - cron: "0 */5 * * *"  # Atualiza a cada 5 horas
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checa o repositório para acesso aos arquivos
-      - uses: actions/checkout@v3
-
-      # Repositório que será utilizado para gerar os arquivos.
+      - uses: actions/checkout@v3  # Atualizado para v3
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -25,19 +17,10 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Adiciona os arquivos gerados ao repositório
-      - name: Commit changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.gif
-          git commit -m "Update Snake Game SVG and GIF" || echo "No changes to commit"
-
-      # Push changes to the output branch
-      - name: Push changes
+      - name: Commit and push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
           branch: output
           force: true
 
@@ -46,4 +29,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
