@@ -50,3 +50,12 @@
 </p>
 
 ![Snake animation](snake.svg)
+
+<div>
+ <a href="https://github.com/ThauanCarlos">
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&langs_count=7&theme=react" />
+
+ ![Snake_animation](https://github.com/ThauanCarlos/ThauanCarlos/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ThauanCarlos&repo=ThauanCarlos&theme=react)](https://github.com/ThauanCarlos/ThauanCarlos)
