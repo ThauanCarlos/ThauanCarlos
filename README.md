@@ -49,7 +49,6 @@
   <a href="mailto:thauancarlos63@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Thauan Carlos Gmail" /></a>
 </p>
 
-![Snake animation](https://github.com/ThauanCarlos/ThauanCarlos/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href="https://github.com/ThauanCarlos">
