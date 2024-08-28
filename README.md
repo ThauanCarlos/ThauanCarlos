@@ -34,6 +34,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo"  />
 </div>
+<div>
+<a href="https://github.com/ThauanCarlos">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&langs_count=7&theme=react" />
+</a>
+
+[![Snake_animation](https://github.com/ThauanCarlos/ThauanCarlos/blob/output/github-contribution-grid-snake.svg)](https://github.com/ThauanCarlos/ThauanCarlos)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ThauanCarlos&repo=ThauanCarlos&theme=react)](https://github.com/ThauanCarlos/ThauanCarlos)
+
 
 ### 🔥 Meus Stats:
 
@@ -49,4 +59,4 @@
 <a href="mailto:thauancarlos63@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Thauan Carlos Gmail" /></a>
 </p>
 
-![Snake animation](snake.svg)
+
