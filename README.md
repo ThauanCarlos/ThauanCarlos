@@ -47,8 +47,8 @@
   <a href="https://www.linkedin.com/in/thauan-carlos/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Thauan Carlos LinkedIn" /></a>
   <a href="https://www.instagram.com/thauancarlos_dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Thauan Carlos Instagram" /></a>
   <a href="mailto:thauancarlos63@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Thauan Carlos Gmail" /></a>
+  <a href="https://x.com/ThauanC_dev" target="_blank"><img align="center" src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Thauan Carlos X" /></a>
 </p>
-
 
 <div>
   <a href="https://github.com/ThauanCarlos">
