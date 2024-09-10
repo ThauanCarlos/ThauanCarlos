@@ -11,7 +11,7 @@
 
 ### 👩‍💻 Sobre Mim
 
-<p align="left">Sou Thauan Carlos, um apaixonado por tecnologia de Ipatinga, MG.<br><br>- ⚙️ Sou estudante de Engenharia de Software (4/7)<br>- 📚 Atualmente estou aprendendo Python, SQL, JavaScript, HTML, CSS, Java, Angular, React, e pratico Cibersegurança no meu tempo livre.</p>
+<p align="left">Sou Thauan Carlos, um apaixonado por tecnologia de Ipatinga, MG.<br><br>- ⚙️ Estudante de Engenharia de Software (4/7)<br>- 📚 Atualmente estou aprendendo Python, SQL, JavaScript, HTML, CSS, Java, Angular, React, e pratico Cibersegurança no meu tempo livre.</p>
 
 ### 🛠 Linguagens e Ferramentas
 
@@ -22,15 +22,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
 </div>
