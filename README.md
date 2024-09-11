@@ -37,6 +37,12 @@
   <img src="https://streak-stats.demolab.com?user=ThauanCarlos&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
+### 📈 Contribuições Recentes
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThauanCarlos&theme=react-dark" alt="atividade recente" />
+</div>
+
 ### 🌐 Conecte-se comigo:
 
 <p align="left">
