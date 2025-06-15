@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Olá 👋, Eu sou Thauan Carlos</h1>
-<h3 align="center">Futuro Engenheiro de Software, 25 anos </h3>
+<h3 align="center">Futuro Engenheiro de Software, 26 anos </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQH9aXbuxR1kog/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1592835525141?e=1729123200&v=beta&t=tRHkFLILj0hlBPttbSAhBNFLljJFtXsPTubzbMxqn1I">
 
@@ -11,7 +11,7 @@
 
 ### 👩‍💻 Sobre Mim
 
-<p align="left">Sou Thauan Carlos, um apaixonado por tecnologia de Ipatinga, MG.<br><br>- ⚙️ Estudante de Engenharia de Software (4/7)<br>- 📚 Atualmente estou aprendendo Python, SQL, JavaScript, HTML, CSS, Java, Angular, React, e pratico Cibersegurança no meu tempo livre.</p>
+<p align="left">Sou Thauan Carlos, um apaixonado por tecnologia de Ipatinga, MG.<br><br>- ⚙️ Estudante de Engenharia de Software (6/7)<br>- 📚 Atualmente estou aprendendo Python, SQL, JavaScript, HTML, CSS, Java, Angular, React, e pratico Cibersegurança no meu tempo livre.</p>
 
 ### 🛠 Linguagens e Ferramentas
 
