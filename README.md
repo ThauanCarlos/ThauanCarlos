@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Olá 👋, Eu sou Thauan Carlos</h1>
-<h3 align="center">Futuro Engenheiro de Software, 28 anos </h3>
+<h3 align="center">Futuro Engenheiro de Software, 27 anos </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ThauanCarlos&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="ThauanCarlos" /> 
