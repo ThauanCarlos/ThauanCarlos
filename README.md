@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThauanCarlos/ThauanCarlos/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/ThauanCarlos/ThauanCarlos/main/banner.png" height="300px" />
+</p>
 
 <h1 align="center">Olá 👋, Eu sou Thauan Carlos</h1>
 <h3 align="center">Futuro Engenheiro de Software, 27 anos </h3>
