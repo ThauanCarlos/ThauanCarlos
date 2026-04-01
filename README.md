@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/08/98/37/07/360_F_898370771_otjrZ1U1jRQo84EvPdOYPmSg9znewch2.jpg" alt="MasterHead" />
-</p>
+  <img src="https://raw.githubusercontent.com/ThauanCarlos/ThauanCarlos/main/banner.png" width="100%" />
 
 <h1 align="center">Olá 👋, Eu sou Thauan Carlos</h1>
 <h3 align="center">Futuro Engenheiro de Software, 27 anos </h3>
