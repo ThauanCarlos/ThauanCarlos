@@ -17,7 +17,7 @@
 Sou Thauan Carlos, um apaixonado por tecnologia de Ipatinga, MG.
 <br><br>
 - ⚙️ Estudante de Engenharia de Software (7/7)  
-- 📚 Atualmente estou aprendendo Python, SQL, JavaScript, HTML, CSS, Java, Angular, React, e pratico Cibersegurança no meu tempo livre.
+- 📚 Atualmente estou aprendendo Python, SQL, JavaScript, HTML, CSS, Java, Angular, React, e Cibersegurança.
 </p>
 
 ---
