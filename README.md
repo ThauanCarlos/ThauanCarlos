@@ -9,90 +9,62 @@
 <h1 align="center">👋 Olá, eu sou Thauan Carlos</h1>
 
 <p align="center">
-  <strong>Engenheiro de Software Júnior | Desenvolvedor Full Stack | Automação</strong>
+  <strong>Engenheiro de Software Júnior | Desenvolvedor Full Stack | Automação de Processos</strong>
 </p>
 
 <p align="center">
-  Desenvolvo aplicações web, sistemas e soluções de automação para resolver problemas reais.
+  Desenvolvo sistemas, aplicações web e soluções de automação para transformar
+  processos reais em soluções mais eficientes.
 </p>
 
 <p align="center">
+
   <a href="https://thauancarlos.github.io/Site_Portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfólio-0A66C2?style=for-the-badge" alt="Portfólio" />
+    <img
+      src="https://img.shields.io/badge/🌐%20PORTFÓLIO-0A66C2?style=for-the-badge"
+      alt="Portfólio"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/thauan-carlos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:thauancarlos63@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
+
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Engenheiro de Software Júnior e Desenvolvedor Full Stack**, com interesse em desenvolvimento de sistemas, aplicações web e automação de processos.
+Sou **Engenheiro de Software Júnior**, com foco em desenvolvimento de sistemas, aplicações web e automação de processos.
 
-Tenho experiência prática no desenvolvimento de soluções utilizando diferentes tecnologias e gosto de transformar processos manuais em soluções **mais rápidas, organizadas e automatizadas**.
+Tenho experiência prática na criação de soluções para problemas reais, trabalhando desde a organização e tratamento dos dados até o desenvolvimento de interfaces, integrações e automações.
 
-### 🎯 Principais áreas de interesse
-
-- 🌐 Desenvolvimento de aplicações Web
-- ⚙️ Automação de processos
-- 🐍 Desenvolvimento com Python
-- 💻 JavaScript e React
-- 🗄️ SQL e gerenciamento de dados
-- 🔌 Integração com APIs
-- 📊 Dashboards e sistemas operacionais
-- 🚀 Desenvolvimento de Software
+Meu objetivo é desenvolver softwares que não apenas funcionem, mas que também **simplifiquem processos, reduzam tarefas manuais e facilitem a tomada de decisões**.
 
 ---
 
-## 💡 O que eu faço
+## 🚀 Áreas de atuação
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Desenvolvimento Full Stack
-
-Desenvolvimento de aplicações web com foco em interfaces responsivas, organização de código e integração entre Frontend e Backend.
-
-**Tecnologias:**
-
-- React
-- JavaScript
-- HTML
-- CSS
-- PHP
-- Node.js
-- SQL
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Automação de Processos
-
-Desenvolvimento de soluções para automatizar tarefas repetitivas, organizar informações e melhorar processos.
-
-**Tecnologias:**
-
-- Python
-- JavaScript
-- Google Apps Script
-- Google Sheets
-- APIs
-- Processamento de dados
-
-</td>
-
-</tr>
-</table>
+- 🌐 Desenvolvimento Web
+- 💻 Desenvolvimento Full Stack
+- ⚙️ Automação de processos
+- 📊 Sistemas e Dashboards
+- 🗄️ Banco de dados e SQL
+- 🔌 Integração com APIs
+- 🐍 Desenvolvimento com Python
+- ⚛️ Desenvolvimento com React
+- 🤖 Visão computacional e processamento de dados
 
 ---
 
@@ -101,6 +73,7 @@ Desenvolvimento de soluções para automatizar tarefas repetitivas, organizar in
 ### 💻 Linguagens
 
 <p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -115,10 +88,12 @@ Desenvolvimento de soluções para automatizar tarefas repetitivas, organizar in
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend e Automação
 
 <p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
 </p>
 
 ### 🔧 Ferramentas
@@ -126,6 +101,7 @@ Desenvolvimento de soluções para automatizar tarefas repetitivas, organizar in
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 </p>
 
 ---
@@ -136,93 +112,95 @@ Desenvolvimento de soluções para automatizar tarefas repetitivas, organizar in
 
 Sistema desenvolvido para apoiar processos operacionais, centralizando informações e automatizando tarefas.
 
-A solução utiliza **Google Sheets, Google Apps Script e JavaScript** para organizar dados, facilitar o acompanhamento das operações e reduzir atividades manuais.
+A solução utiliza **Google Sheets, Google Apps Script e JavaScript**, permitindo organizar dados operacionais, acompanhar indicadores e reduzir atividades manuais.
 
-**Tecnologias:** JavaScript · Google Apps Script · Google Sheets · Automação
+**Tecnologias:**
 
----
-
-### 🤖 Sistema de Automação
-
-Projeto voltado para automação de processos utilizando Python e JavaScript.
-
-Inclui recursos para processamento de dados, integração com APIs, leitura de QR Codes e reconhecimento de informações.
-
-**Tecnologias:** Python · JavaScript · APIs · OpenCV · OCR
+`JavaScript` · `Google Apps Script` · `Google Sheets` · `Automação`
 
 ---
 
-### 🌐 Portfólio Profissional
+### 📱 ScanSeller
 
-Meu portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e experiências na área de tecnologia.
+Aplicação desenvolvida para automatizar o processo de leitura e organização de informações utilizando **QR Code e reconhecimento de texto**.
 
-**Tecnologias:** HTML · CSS · JavaScript · Bootstrap
+O projeto utiliza câmera, processamento de imagens e integração com serviços externos para registrar e organizar os dados coletados.
+
+**Tecnologias:**
+
+`Kotlin` · `Android` · `CameraX` · `ML Kit` · `OkHttp` · `Google Apps Script`
+
+---
+
+### 🤖 Detectar Objetos
+
+Sistema desenvolvido em Python para realizar **detecção de objetos em tempo real** utilizando modelos de visão computacional e OpenCV.
+
+**Tecnologias:**
+
+`Python` · `OpenCV` · `YOLO` · `Visão Computacional`
+
+<p>
+  <a href="https://github.com/ThauanCarlos/Detectar_Objetos">
+    <img
+      src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Ver repositório"
+    />
+  </a>
+</p>
+
+---
+
+### 🌐 Site Portfolio
+
+Meu portfólio profissional desenvolvido para apresentar meus projetos, conhecimentos e experiências na área de tecnologia.
+
+**Tecnologias:**
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
 
 <p>
   <a href="https://github.com/ThauanCarlos/Site_Portfolio">
-    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" />
+    <img
+      src="https://img.shields.io/badge/REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Repositório"
+    />
   </a>
 
   <a href="https://thauancarlos.github.io/Site_Portfolio/">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-0A66C2?style=for-the-badge" alt="Ver Projeto" />
+    <img
+      src="https://img.shields.io/badge/VER%20SITE-0A66C2?style=for-the-badge"
+      alt="Ver site"
+    />
   </a>
 </p>
 
 ---
 
-### 💻 Meu Primeiro Projeto
+### 🧮 Calculadora em JavaScript
 
-Meu primeiro projeto prático de programação, desenvolvido para aplicar conceitos de lógica de programação e desenvolvimento web.
+Aplicação desenvolvida para praticar JavaScript, HTML e CSS, implementando operações matemáticas através de uma interface web.
 
-**Tecnologias:** HTML · CSS · JavaScript
+**Tecnologias:**
+
+`JavaScript` · `HTML` · `CSS`
 
 <p>
-  <a href="https://github.com/ThauanCarlos/Meu_Primeiro_Projeto">
-    <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório" />
+  <a href="https://github.com/ThauanCarlos/CalculadoraEmJavaScript">
+    <img
+      src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Ver repositório"
+    />
   </a>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📚 Formação
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-    alt="Estatísticas do GitHub"
-  />
+🎓 **Engenharia de Software**
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    height="170"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
----
-
-## 🔥 Sequência de contribuições
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ThauanCarlos&theme=github-dark-blue&hide_border=true"
-    height="170"
-    alt="Sequência de contribuições"
-  />
-</p>
-
----
-
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ThauanCarlos&theme=github-dark&hide_border=true"
-    width="100%"
-    alt="Gráfico de atividade no GitHub"
-  />
-</p>
+Foco em desenvolvimento de software, programação, banco de dados, engenharia de sistemas e desenvolvimento de aplicações.
 
 ---
 
@@ -231,19 +209,31 @@ Meu primeiro projeto prático de programação, desenvolvido para aplicar concei
 <p align="center">
 
   <a href="https://www.linkedin.com/in/thauan-carlos/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="https://www.instagram.com/thauan.carlos_/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img
+      src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
 
   <a href="mailto:thauancarlos63@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
   <a href="https://github.com/ThauanCarlos">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
 </p>
