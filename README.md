@@ -19,21 +19,9 @@
 
 ### Sobre mim
 
-Sou Engenheiro de Software formado, com experiência prática em desenvolvimento de soluções, automação de processos e análise de dados aplicados a operações logísticas. Tenho um perfil analítico e orientado a resultados, sempre buscando resolver problemas reais através da tecnologia.
+Sou Engenheiro de Software formado, com foco em desenvolvimento Full Stack. Gosto de resolver problemas com código limpo e bem estruturado, aplicando conceitos de engenharia desde a modelagem de dados até a arquitetura da aplicação.
 
-Atualmente atuo como Analista de Transportes na Shopee Express, onde desenvolvi um sistema de dashboard e gestão operacional que é usado diariamente na gestão de frota de mais de 600 motoristas. Foi nesse ambiente que percebi o poder que o código tem de transformar processos manuais em soluções eficientes.
-
-Trabalho principalmente com **Python, JavaScript, React, PHP, Node.js e SQL**, e estou sempre estudando algo novo para complementar minha base técnica.
-
----
-
-### 💼 Experiência em Destaque
-
-**Shopee Express** — Analista de Transportes  
-Gestão de frota, planejamento operacional e desenvolvimento de dashboards para apoio à tomada de decisão.
-
-**Sistema de Dashboard e Gestão Operacional** (Projeto interno)  
-Sistema desenvolvido para uso nas operações da Shopee, utilizando Google Sheets integrado. Avalia simultaneamente o desempenho de mais de **600 motoristas**, abrangendo mais de **21 cidades** e atendendo ao hub de Governador Valadares e região metropolitana.
+Tenho experiência com **Python, JavaScript, React, PHP, Node.js e SQL**, e estou sempre estudando algo novo para complementar minha base técnica. No momento, estou me aprofundando em **Cibersegurança** e **Cloud Computing**.
 
 ---
 
@@ -42,10 +30,10 @@ Sistema desenvolvido para uso nas operações da Shopee, utilizando Google Sheet
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | **[Site Portfólio](https://github.com/ThauanCarlos/portfolio)** | Meu portfólio pessoal, onde apresento meus projetos, habilidades e trajetória profissional. Desenvolvido do zero com foco em design responsivo e performance. | HTML, CSS, JavaScript |
-| **[Dashboard Operacional](https://github.com/ThauanCarlos/nome-do-projeto)** | Sistema de gestão e acompanhamento de indicadores operacionais, com avaliação de desempenho de motoristas em tempo real. | Google Sheets, JavaScript, Automação |
-| **[Nome do Projeto 3](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do projeto. | Python, SQL |
+| **[Nome do Projeto 2](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do que o projeto faz e qual problema ele resolve. | Python, SQL |
+| **[Nome do Projeto 3](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do projeto. | React, JavaScript |
 
-*(Substitua os links e descrições dos projetos pelos seus projetos reais. Se ainda não tiver, crie um CRUD simples e coloque aqui.)*
+*(Substitua os links e descrições dos projetos 2 e 3 pelos seus projetos reais. Se ainda não tiver, crie um CRUD simples e coloque aqui.)*
 
 ---
 
