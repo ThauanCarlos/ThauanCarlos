@@ -63,13 +63,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Thauan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&langs_count=7&theme=dracula" alt="Thauan's Top Languages" />
+div align="center">
+  <img src="https://streak-stats.demolab.com?user=ThauanCarlos&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThauanCarlos&theme=dracula&locale=en" alt="Thauan's Streak Stats" />
-</div>
-
----
