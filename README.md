@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Thauan Carlos</h1>
-<h3 align="center">Engenheiro de Software | Python & JavaScript</h3>
+<h3 align="center">Engenheiro de Software | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thauan-carlos/" target="_blank">
@@ -19,45 +19,59 @@
 
 ### Sobre mim
 
-Sou Engenheiro de Software formado, de Ipatinga (MG). Gosto de resolver problemas com código limpo e bem estruturado, sempre aplicando os conceitos de engenharia que aprendi na faculdade — desde a modelagem de dados até a arquitetura da aplicação.
+Sou Engenheiro de Software formado, com experiência prática em desenvolvimento de soluções, automação de processos e análise de dados aplicados a operações logísticas. Tenho um perfil analítico e orientado a resultados, sempre buscando resolver problemas reais através da tecnologia.
 
-Tenho facilidade com **Python, JavaScript, SQL e Java**, e estou sempre estudando algo novo. No momento, estou me aprofundando em **Cibersegurança** e **Cloud Computing** para complementar minha base de desenvolvimento.
+Atualmente atuo como Analista de Transportes na Shopee Express, onde desenvolvi um sistema de dashboard e gestão operacional que é usado diariamente na gestão de frota de mais de 600 motoristas. Foi nesse ambiente que percebi o poder que o código tem de transformar processos manuais em soluções eficientes.
+
+Trabalho principalmente com **Python, JavaScript, React, PHP, Node.js e SQL**, e estou sempre estudando algo novo para complementar minha base técnica.
 
 ---
 
-### Projetos em Destaque
+### 💼 Experiência em Destaque
+
+**Shopee Express** — Analista de Transportes  
+Gestão de frota, planejamento operacional e desenvolvimento de dashboards para apoio à tomada de decisão.
+
+**Sistema de Dashboard e Gestão Operacional** (Projeto interno)  
+Sistema desenvolvido para uso nas operações da Shopee, utilizando Google Sheets integrado. Avalia simultaneamente o desempenho de mais de **600 motoristas**, abrangendo mais de **21 cidades** e atendendo ao hub de Governador Valadares e região metropolitana.
+
+---
+
+### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | **[Site Portfólio](https://github.com/ThauanCarlos/portfolio)** | Meu portfólio pessoal, onde apresento meus projetos, habilidades e trajetória profissional. Desenvolvido do zero com foco em design responsivo e performance. | HTML, CSS, JavaScript |
-| **[Nome do Projeto 2](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do que o projeto faz e qual problema ele resolve. | Python, SQL |
-| **[Nome do Projeto 3](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do projeto. | React, JavaScript |
+| **[Dashboard Operacional](https://github.com/ThauanCarlos/nome-do-projeto)** | Sistema de gestão e acompanhamento de indicadores operacionais, com avaliação de desempenho de motoristas em tempo real. | Google Sheets, JavaScript, Automação |
+| **[Nome do Projeto 3](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do projeto. | Python, SQL |
 
-*(Substitua os links e descrições dos projetos 2 e 3 pelos seus projetos reais. Se ainda não tiver, crie um CRUD simples e coloque aqui.)*
+*(Substitua os links e descrições dos projetos pelos seus projetos reais. Se ainda não tiver, crie um CRUD simples e coloque aqui.)*
 
 ---
 
-### Habilidades Técnicas
+### 🛠 Habilidades Técnicas
 
-**Back-end:**  
+**Linguagens & Frameworks:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Front-end:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Front-end:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Ferramentas:**  
+**Banco de Dados & Ferramentas:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
@@ -70,7 +84,7 @@ Tenho facilidade com **Python, JavaScript, SQL e Java**, e estou sempre estudand
 
 ---
 
-### Contato
+### 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thauan-carlos/">
