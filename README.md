@@ -2,16 +2,16 @@
   <img src="https://raw.githubusercontent.com/ThauanCarlos/ThauanCarlos/main/banner.png" height="250px" alt="Banner Thauan Carlos" />
 </p>
 
-<h1 align="center">Olá 👋, eu sou Thauan Carlos</h1>
+<h1 align="center">Hi 👋, I'm Thauan Carlos</h1>
 
-- 🎓 **Engenheiro de Software** | Full Stack Developer
-- 💻 Trabalho com **Python, JavaScript, React, PHP, Node.js e SQL**
-- 📚 Atualmente me aprofundando em **automação de processos utilizando Python e JavaScript**
-- 🌐 Mais em **[Site Portfólio](https://thauancarlos.github.io/Site_Portfolio/)**
+- 🎓 **Junior Software Engineer** | Full Stack Developer
+- 💻 I work with **Python, JavaScript, React, PHP, Node.js and SQL**
+- 📚 Currently diving deeper into **process automation using Python and JavaScript**
+- 🌐 More at **[Portfolio Website](https://thauancarlos.github.io/Site_Portfolio/)**
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thauan-carlos/">
@@ -23,21 +23,24 @@
   <a href="https://github.com/ThauanCarlos">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.instagram.com/thauan.carlos_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Site Portfólio](https://github.com/ThauanCarlos/Site_Portfolio)** | Site pessoal criado para exibir meus projetos, com layout profissional e responsivo. Desenvolvido do zero utilizando HTML, CSS, JavaScript e Bootstrap. | HTML, CSS, JavaScript, Bootstrap |
-| **[Meu Primeiro Projeto](https://github.com/ThauanCarlos/Meu_Primeiro_Projeto)** | Meu primeiro projeto prático de programação, onde apliquei os fundamentos de lógica e desenvolvimento. | HTML, CSS, JavaScript |
-| **[JLoja](https://github.com/ThauanCarlos/JLoja)** | *(Descrição a confirmar — link retornou erro 404)* | *(A definir)* |
+| **[Portfolio Website](https://github.com/ThauanCarlos/Site_Portfolio)** | Personal website built to showcase my projects, with a professional and responsive layout. Developed from scratch using HTML, CSS, JavaScript and Bootstrap. | HTML, CSS, JavaScript, Bootstrap |
+| **[First Project](https://github.com/ThauanCarlos/Meu_Primeiro_Projeto)** | My first practical programming project, where I applied the fundamentals of logic and web development. | HTML, CSS, JavaScript |
+| **[JLoja](https://github.com/ThauanCarlos/JLoja)** | *(Description to be confirmed — link returned 404 error)* | *(To be defined)* |
 
 ---
 
-### 🛠 Habilidades Técnicas
+### 🛠 Tech Stack
 
 **Back-end:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,19 +56,19 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Ferramentas:**  
+**Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&theme=dark&langs_count=6" height="180" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&theme=dark&langs_count=6" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThauanCarlos&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="Sequência de commits" />
+  <img src="https://streak-stats.demolab.com?user=ThauanCarlos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="Streak Stats" />
 </p>
