@@ -194,18 +194,6 @@ Meu primeiro projeto prático de programação, desenvolvido para aplicar concei
 
 ---
 
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ThauanCarlos&theme=github-dark&hide_border=true"
-    width="100%"
-    alt="Gráfico de atividade no GitHub"
-  />
-</p>
-
----
-
 ## 📫 Entre em contato
 
 <p align="center">
