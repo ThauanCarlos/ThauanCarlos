@@ -6,222 +6,248 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Thauan Carlos</h1>
+<h1 align="center">👋 Olá, eu sou Thauan Carlos</h1>
 
 <p align="center">
-  <strong>Junior Software Engineer | Full Stack Developer | Automation</strong>
+  <strong>Engenheiro de Software Júnior | Desenvolvedor Full Stack | Automação</strong>
 </p>
 
 <p align="center">
-  I build web applications, automation solutions and systems focused on solving real-world problems.
+  Desenvolvo aplicações web, sistemas e soluções de automação para resolver problemas reais.
 </p>
 
 <p align="center">
   <a href="https://thauancarlos.github.io/Site_Portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-0A66C2?style=for-the-badge" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/thauan-carlos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:thauancarlos63@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-I'm a **Junior Software Engineer and Full Stack Developer** interested in building applications, automation solutions and systems that improve real-world processes.
+Sou **Engenheiro de Software Júnior e Desenvolvedor Full Stack**, com interesse em desenvolvimento de sistemas, aplicações web e automação de processos.
 
-My main areas of interest are:
+Tenho experiência prática no desenvolvimento de soluções utilizando diferentes tecnologias e gosto de transformar processos manuais em soluções **mais rápidas, organizadas e automatizadas**.
 
-- 🌐 Web Application Development
-- ⚙️ Process Automation
-- 🐍 Python Development
-- 💻 JavaScript & React
-- 🗄️ SQL & Data Management
-- 🔌 API Integration
-- 📊 Dashboards and Operational Systems
-- 🚀 Software Development
+### 🎯 Principais áreas de interesse
 
-I enjoy transforming manual processes into **automated, organized and scalable solutions**.
+- 🌐 Desenvolvimento de aplicações Web
+- ⚙️ Automação de processos
+- 🐍 Desenvolvimento com Python
+- 💻 JavaScript e React
+- 🗄️ SQL e gerenciamento de dados
+- 🔌 Integração com APIs
+- 📊 Dashboards e sistemas operacionais
+- 🚀 Desenvolvimento de Software
 
 ---
 
-## 🧠 What I Do
+## 💡 O que eu faço
 
 <table>
 <tr>
-<td width="50%">
 
-### 🌐 Full Stack Development
+<td width="50%" valign="top">
 
-Development of responsive web applications using modern frontend and backend technologies.
+### 🌐 Desenvolvimento Full Stack
 
-**Focus:**
+Desenvolvimento de aplicações web com foco em interfaces responsivas, organização de código e integração entre Frontend e Backend.
+
+**Tecnologias:**
+
 - React
 - JavaScript
-- HTML & CSS
+- HTML
+- CSS
 - PHP
 - Node.js
 - SQL
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Automation
+### ⚙️ Automação de Processos
 
-Development of automation solutions to reduce manual work and improve operational processes.
+Desenvolvimento de soluções para automatizar tarefas repetitivas, organizar informações e melhorar processos.
 
-**Focus:**
+**Tecnologias:**
+
 - Python
 - JavaScript
-- APIs
-- Data processing
+- Google Apps Script
 - Google Sheets
-- Process automation
+- APIs
+- Processamento de dados
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
-### Languages
+### 💻 Linguagens
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-### Frontend
+### 🌐 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Backend & Tools
+### ⚙️ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em destaque
 
-### 🌐 Portfolio Website
+### 📊 Sistema de Dashboard Operacional
 
-Personal portfolio developed to showcase my projects, technical skills and experience.
+Sistema desenvolvido para apoiar processos operacionais, centralizando informações e automatizando tarefas.
 
-**Technologies:** HTML, CSS, JavaScript, Bootstrap
+A solução utiliza **Google Sheets, Google Apps Script e JavaScript** para organizar dados, facilitar o acompanhamento das operações e reduzir atividades manuais.
+
+**Tecnologias:** JavaScript · Google Apps Script · Google Sheets · Automação
+
+---
+
+### 🤖 Sistema de Automação
+
+Projeto voltado para automação de processos utilizando Python e JavaScript.
+
+Inclui recursos para processamento de dados, integração com APIs, leitura de QR Codes e reconhecimento de informações.
+
+**Tecnologias:** Python · JavaScript · APIs · OpenCV · OCR
+
+---
+
+### 🌐 Portfólio Profissional
+
+Meu portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e experiências na área de tecnologia.
+
+**Tecnologias:** HTML · CSS · JavaScript · Bootstrap
 
 <p>
   <a href="https://github.com/ThauanCarlos/Site_Portfolio">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" />
   </a>
+
   <a href="https://thauancarlos.github.io/Site_Portfolio/">
-    <img src="https://img.shields.io/badge/Live%20Demo-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Ver%20Projeto-0A66C2?style=for-the-badge" alt="Ver Projeto" />
   </a>
 </p>
-
----
-
-### 📊 Operations Dashboard
-
-Operational dashboard developed to organize, monitor and automate processes using **Google Sheets, JavaScript and automation**.
-
-The system helps centralize operational information, improve data visibility and reduce manual activities.
-
-**Technologies:** JavaScript, Google Sheets, Google Apps Script
-
----
-
-### 🤖 Automation Projects
-
-Projects focused on automating repetitive processes using Python and JavaScript.
-
-Examples include data processing, integrations, QR Code scanning, OCR and communication with external systems.
-
-**Technologies:** Python, JavaScript, APIs, OpenCV, OCR
 
 ---
 
 ### 💻 Meu Primeiro Projeto
 
-My first practical programming project, created to apply programming logic and fundamental web development concepts.
+Meu primeiro projeto prático de programação, desenvolvido para aplicar conceitos de lógica de programação e desenvolvimento web.
 
-**Technologies:** HTML, CSS, JavaScript
+**Tecnologias:** HTML · CSS · JavaScript
 
 <p>
   <a href="https://github.com/ThauanCarlos/Meu_Primeiro_Projeto">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório" />
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=github_dark&hide_border=true"
     height="170"
-    alt="GitHub Statistics"
+    alt="Estatísticas do GitHub"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
     height="170"
-    alt="Top Languages"
+    alt="Linguagens mais utilizadas"
   />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Sequência de contribuições
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=ThauanCarlos&theme=github-dark-blue&hide_border=true"
     height="170"
-    alt="GitHub Contribution Streak"
+    alt="Sequência de contribuições"
   />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📈 Atividade no GitHub
 
 <p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ThauanCarlos&theme=github-dark&hide_border=true"
+    width="100%"
+    alt="Gráfico de atividade no GitHub"
+  />
+</p>
+
+---
+
+## 📫 Entre em contato
+
+<p align="center">
+
   <a href="https://www.linkedin.com/in/thauan-carlos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://thauancarlos.github.io/Site_Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFÓLIO-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
   </a>
 
   <a href="mailto:thauancarlos63@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <a href="https://github.com/ThauanCarlos">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <strong>🚀 Building solutions, automating processes and constantly learning.</strong>
+  🚀 <strong>Desenvolvendo soluções, automatizando processos e evoluindo constantemente.</strong>
 </p>
