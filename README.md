@@ -36,7 +36,6 @@
 | :--- | :--- | :--- |
 | **[Portfolio Website](https://github.com/ThauanCarlos/Site_Portfolio)** | Personal website built to showcase my projects, with a professional and responsive layout. Developed from scratch using HTML, CSS, JavaScript and Bootstrap. | HTML, CSS, JavaScript, Bootstrap |
 | **[First Project](https://github.com/ThauanCarlos/Meu_Primeiro_Projeto)** | My first practical programming project, where I applied the fundamentals of logic and web development. | HTML, CSS, JavaScript |
-| **[JLoja](https://github.com/ThauanCarlos/JLoja)** | *(Description to be confirmed — link returned 404 error)* | *(To be defined)* |
 
 ---
 
@@ -64,17 +63,13 @@
 
 ### 📊 GitHub Stats
 
----
-
-### 📊 GitHub Stats
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Thauan's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&langs_count=7&theme=dracula" alt="Thauan's Top Languages" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=ThauanCarlos&theme=dracula&hide_border=false&border_radius=5&locale=en" alt="Thauan's Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThauanCarlos&theme=dracula&locale=en" alt="Thauan's Streak Stats" />
 </div>
 
 ---
