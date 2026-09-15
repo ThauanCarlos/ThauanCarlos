@@ -182,24 +182,6 @@ Meu primeiro projeto prático de programação, desenvolvido para aplicar concei
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    height="170"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
----
-
 ## 🔥 Sequência de contribuições
 
 <p align="center">
