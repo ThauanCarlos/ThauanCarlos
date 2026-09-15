@@ -20,9 +20,11 @@
   <a href="https://thauancarlos.github.io/Site_Portfolio/">
     <img src="https://img.shields.io/badge/🌐%20Portfólio-0A66C2?style=for-the-badge" alt="Portfólio" />
   </a>
+
   <a href="https://www.linkedin.com/in/thauan-carlos/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:thauancarlos63@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -182,6 +184,24 @@ Meu primeiro projeto prático de programação, desenvolvido para aplicar concei
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    height="170"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+---
+
 ## 🔥 Sequência de contribuições
 
 <p align="center">
@@ -189,6 +209,18 @@ Meu primeiro projeto prático de programação, desenvolvido para aplicar concei
     src="https://streak-stats.demolab.com?user=ThauanCarlos&theme=github-dark-blue&hide_border=true"
     height="170"
     alt="Sequência de contribuições"
+  />
+</p>
+
+---
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ThauanCarlos&theme=github-dark&hide_border=true"
+    width="100%"
+    alt="Gráfico de atividade no GitHub"
   />
 </p>
 
@@ -202,8 +234,8 @@ Meu primeiro projeto prático de programação, desenvolvido para aplicar concei
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://thauancarlos.github.io/Site_Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
+  <a href="https://www.instagram.com/thauan.carlos_/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
   <a href="mailto:thauancarlos63@gmail.com">
