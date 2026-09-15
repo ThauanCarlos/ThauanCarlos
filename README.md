@@ -62,7 +62,11 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanCarlos&layout=compact&theme=dark&langs_count=6" height="180" alt="Linguagens mais usadas" />
+</p>
 
-div align="center">
-  <img src="https://streak-stats.demolab.com?user=ThauanCarlos&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThauanCarlos&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="Sequência de commits" />
+</p>
