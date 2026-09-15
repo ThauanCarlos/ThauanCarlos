@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Thauan Carlos</h1>
-<h3 align="center">Engenheiro de Software | Python & JavaScript | Full Stack</h3>
+<h3 align="center">Engenheiro de Software | Python & JavaScript</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thauan-carlos/" target="_blank">
@@ -17,30 +17,27 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre mim
 
-Engenheiro de Software com sólida formação acadêmica e foco em desenvolvimento de soluções eficientes. Experiência em construção de aplicações utilizando **Python, JavaScript e SQL**, com interesse especial em arquitetura de software, boas práticas de código e segurança.
+Sou Engenheiro de Software formado, de Ipatinga (MG). Gosto de resolver problemas com código limpo e bem estruturado, sempre aplicando os conceitos de engenharia que aprendi na faculdade — desde a modelagem de dados até a arquitetura da aplicação.
 
-- 🎓 **Formação:** Engenheiro de Software.
-- 💻 **Stack Principal:** Python | JavaScript | React | SQL | Java.
-- 🚀 **Diferencial:** Visão analítica de engenharia, aplicando conceitos de POO, estruturas de dados e engenharia de requisitos no desenvolvimento de projetos.
-- 📚 **Aprofundamento:** Cibersegurança e Cloud Computing.
+Tenho facilidade com **Python, JavaScript, SQL e Java**, e estou sempre estudando algo novo. No momento, estou me aprofundando em **Cibersegurança** e **Cloud Computing** para complementar minha base de desenvolvimento.
 
 ---
 
-### 🚀 Projetos em Destaque
-
-*(Substitua os links e descrições abaixo pelos seus melhores projetos. Se ainda não tiver, crie um CRUD simples e coloque aqui)*
+### Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Nome do Projeto 1](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do que o projeto faz e qual problema ele resolve. Ex: API REST para gerenciamento de tarefas com autenticação JWT. | Python, SQL, Flask |
-| **[Nome do Projeto 2](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do projeto. Ex: Dashboard interativo para visualização de dados de vendas em tempo real. | React, JavaScript, CSS |
-| **[Nome do Projeto 3](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do projeto. Ex: Script de automação para extração e tratamento de dados de relatórios. | Python, Pandas |
+| **[Site Portfólio](https://github.com/ThauanCarlos/portfolio)** | Meu portfólio pessoal, onde apresento meus projetos, habilidades e trajetória profissional. Desenvolvido do zero com foco em design responsivo e performance. | HTML, CSS, JavaScript |
+| **[Nome do Projeto 2](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do que o projeto faz e qual problema ele resolve. | Python, SQL |
+| **[Nome do Projeto 3](https://github.com/ThauanCarlos/nome-do-projeto)** | Breve descrição do projeto. | React, JavaScript |
+
+*(Substitua os links e descrições dos projetos 2 e 3 pelos seus projetos reais. Se ainda não tiver, crie um CRUD simples e coloque aqui.)*
 
 ---
 
-### 🛠 Habilidades Técnicas
+### Habilidades Técnicas
 
 **Back-end:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,14 +51,13 @@ Engenheiro de Software com sólida formação acadêmica e foco em desenvolvimen
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Ferramentas & Outros:**  
+**Ferramentas:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Segurança](https://img.shields.io/badge/Cibersegurança-000000?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThauanCarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
@@ -74,7 +70,7 @@ Engenheiro de Software com sólida formação acadêmica e foco em desenvolvimen
 
 ---
 
-### 📫 Contato
+### Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thauan-carlos/">
