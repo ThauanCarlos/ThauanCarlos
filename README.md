@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Thauan Carlos</h1>
-<h3 align="center">Engenheiro de Software | Python & JavaScript | Full Stack Júnior</h3>
+<h3 align="center">Engenheiro de Software | Python & JavaScript | Full Stack</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thauan-carlos/" target="_blank">
@@ -19,12 +19,12 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Engenheiro de Software** formado, apaixonado por resolver problemas complexos através de código limpo e eficiente. Com base em Ipatinga, MG, busco minha primeira oportunidade como Desenvolvedor Júnior, onde posso aplicar meus conhecimentos em Python, JavaScript e Banco de Dados para entregar valor real ao negócio.
+Engenheiro de Software com sólida formação acadêmica e foco em desenvolvimento de soluções eficientes. Experiência em construção de aplicações utilizando **Python, JavaScript e SQL**, com interesse especial em arquitetura de software, boas práticas de código e segurança.
 
 - 🎓 **Formação:** Engenheiro de Software.
-- 🎯 **Objetivo:** Desenvolvedor Full Stack Júnior | Back-end Python | Front-end React.
-- 🚀 **Diferencial:** Visão analítica de engenharia, focado em boas práticas, arquitetura de software e segurança desde a concepção do projeto.
-- 📚 **Estudos Atuais:** Aprofundando conhecimentos em **Cibersegurança** e **Cloud Computing** para agregar valor aos projetos.
+- 💻 **Stack Principal:** Python | JavaScript | React | SQL | Java.
+- 🚀 **Diferencial:** Visão analítica de engenharia, aplicando conceitos de POO, estruturas de dados e engenharia de requisitos no desenvolvimento de projetos.
+- 📚 **Aprofundamento:** Cibersegurança e Cloud Computing.
 
 ---
 
@@ -74,9 +74,7 @@ Sou **Engenheiro de Software** formado, apaixonado por resolver problemas comple
 
 ---
 
-### 📫 Vamos conversar?
-
-Estou aberto a oportunidades de **Desenvolvedor Júnior** e **Estágio em Engenharia de Software**. Sinta-se à vontade para me chamar para conversarmos sobre tecnologia, projetos ou oportunidades.
+### 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thauan-carlos/">
